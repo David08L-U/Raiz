@@ -1,0 +1,14 @@
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\bin\Debug\net10.0\TriangleAreaCalculatorApp.exe
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\bin\Debug\net10.0\TriangleAreaCalculatorApp.deps.json
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\bin\Debug\net10.0\TriangleAreaCalculatorApp.runtimeconfig.json
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\bin\Debug\net10.0\TriangleAreaCalculatorApp.dll
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\bin\Debug\net10.0\TriangleAreaCalculatorApp.pdb
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\TriangleAreaCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\TriangleAreaCalculatorApp.AssemblyInfoInputs.cache
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\TriangleAreaCalculatorApp.AssemblyInfo.cs
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\TriangleAreaCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\TriangleAreaCalculatorApp.dll
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\refint\TriangleAreaCalculatorApp.dll
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\TriangleAreaCalculatorApp.pdb
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\TriangleAreaCalculatorApp.genruntimeconfig.cache
+C:\Home\Code\TriangleAreaCalculator\TriangleAreaCalculatorApp\obj\Debug\net10.0\ref\TriangleAreaCalculatorApp.dll
